@@ -1,0 +1,8 @@
+# ninja log v6
+0	32533	1761814666313878003	/home/yanp/HeadAvatar/gsface-shader/build/temp.linux-x86_64-cpython-39/bindings.o	83004a65bd049c14
+2	109917	1761814666317878028	/home/yanp/HeadAvatar/gsface-shader/build/temp.linux-x86_64-cpython-39/etc.o	711088ce660d561f
+1	116584	1761814666313878003	/home/yanp/HeadAvatar/gsface-shader/build/temp.linux-x86_64-cpython-39/bruteforce_shader.o	4df23a08b1880ccf
+34	112411	1761815090092209122	/home/yanp/HeadAvatar/gsface-shader/build/temp.linux-x86_64-cpython-39/bruteforce_shader.o	4df23a08b1880ccf
+37	112310	1761815404216447709	/home/yanp/HeadAvatar/gsface-shader/build/temp.linux-x86_64-cpython-39/bruteforce_shader.o	4df23a08b1880ccf
+34	114626	1761815657741112915	/home/yanp/HeadAvatar/gsface-shader/build/temp.linux-x86_64-cpython-39/bruteforce_shader.o	4df23a08b1880ccf
+38	111838	1761816292383655922	/home/yanp/HeadAvatar/gsface-shader/build/temp.linux-x86_64-cpython-39/bruteforce_shader.o	4df23a08b1880ccf

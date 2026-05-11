@@ -1,0 +1,8 @@
+bindings.cpp
+bruteforce_shader.cu
+etc.cu
+setup.py
+gsface_shader.egg-info/PKG-INFO
+gsface_shader.egg-info/SOURCES.txt
+gsface_shader.egg-info/dependency_links.txt
+gsface_shader.egg-info/top_level.txt

@@ -1,0 +1,13 @@
+.vscode/
+*.pyc
+**/*.pyc
+output/
+__pycache__
+data/
+tiny-cuda-nn/
+expr_editing_results/
+expr_transfer_results/
+lpipsPyTorch/*
+relighting_results/
+flame_model/
+

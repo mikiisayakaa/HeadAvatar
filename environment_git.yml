@@ -1,0 +1,14 @@
+name: relight
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - pip:
+      - git+https://github.com/NVlabs/nvdiffrast
+  # need to be cloned with --recursive:
+  # git clone --recursive https://github.com/mikiisayakaa/cholespy_multiGPU.git
+
+  # pip install ./gsface-shader
+prefix: /home/yanp/miniconda3/envs/relight

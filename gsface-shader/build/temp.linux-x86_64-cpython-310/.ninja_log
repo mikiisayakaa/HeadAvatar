@@ -1,0 +1,4 @@
+# ninja log v5
+0	21508	1762780141	/home/yanp/HeadAvatar/gsface-shader/build/temp.linux-x86_64-cpython-310/bindings.o	798c7f05ab3c449a
+1	65403	1762780185	/home/yanp/HeadAvatar/gsface-shader/build/temp.linux-x86_64-cpython-310/etc.o	644785e16397b1d2
+1	66250	1762780186	/home/yanp/HeadAvatar/gsface-shader/build/temp.linux-x86_64-cpython-310/bruteforce_shader.o	1078e5ea2529979e
