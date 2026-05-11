@@ -1,16 +1,30 @@
-A mesh-based human head avatar reconstruction from multiview photos
+# Mesh-based Human Head Avatar Reconstruction
 
-Environment setup:
+> Reconstruct a human head avatar from multiview photos using mesh-based methods.
 
+---
+
+## Environment Setup
+
+```bash
 conda env create -f environment.yml
 pip install git+https://github.com/NVlabs/nvdiffrast
 git clone --recursive https://github.com/mikiisayakaa/cholespy_multiGPU.git
 pip install cholespy_multiGPU
 pip install ./gsface-shader
+```
 
-Train and Test:
-batch_train.sh
-batch_test.sh
+---
 
-Data:
-Dataset from GaussianAvatars
+## Training and Testing
+
+```bash
+sh batch_train.sh
+sh batch_test.sh
+```
+
+---
+
+## Data
+
+- Dataset from [GaussianAvatars](https://github.com/google/gaussian-avatars)
