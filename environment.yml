@@ -1,4 +1,4 @@
-name: relight
+name: headavatar
 channels:
   - pytorch
   - conda-forge
