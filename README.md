@@ -27,4 +27,4 @@ sh batch_test.sh
 
 ## Data
 
-- Dataset from [GaussianAvatars](https://github.com/google/gaussian-avatars)
+- Dataset from GaussianAvatars
